@@ -1,4 +1,4 @@
-class Vehicle
+class Vehicle #super class
   attr_accessor :wheel_size, :wheel_number
   
   # initializes with two arguments, wheel size and number 
